@@ -23,7 +23,7 @@ import chaisuttaImg from './assets/chaisuttabar.jpg';
 // AUDIO TRACK SETUP
 // Replace this with your direct .mp3 file link.
 // ============================================================================
-const SONG_URL = '/chale_hi_jana_hai.m4a';
+const SONG_URL = `${import.meta.env.BASE_URL}chale_hi_jana_hai.m4a`;
 
 // Long Drive Route Points: Chhatrapati Square to Bhande Plot Square (straight line)
 const LONG_DRIVE_ROUTE = [
