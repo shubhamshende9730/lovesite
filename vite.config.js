@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/love-site/',
+  base: '/lovesite/',
   server: {
     host: true,
   },
